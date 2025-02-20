@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.ju367v7t.ju367v9i.ju367vn.ju367vei.ju367vf3.ju367v16.ju367v1h.ju367v2g.ju367v8u._12cbo8i3.ju367v8r._12cbo8i4._12cbo8i6 {
+  /* background: none; */
+ background:transparent;
+  color:transparent;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 10px;
+  width: 50px !important;
+  position:absolute;
+  height: 50px;
+  top: 40px;
+  right: 17px;
+  z-index: 99999999999 !important;
+}
+
+.small-screen-connect .ju367v1s{
+  position: absolute;
+  top: 17px;
+  right: 17px;
+  height: 40px;
+
+  
+}
+.small-screen-connect .ju367va {
+  width: 160px;
+}
+
+.ju367v7t.ju367v9i.ju367vn.ju367vei.ju367vf3.ju367v16.ju367v1h.ju367v2g.ju367v8u._12cbo8i3.ju367v8r._12cbo8i4._12cbo8i6 :hover {
+  /* background:transparent; */
+ background: none;
+  color:transparent;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 10px;
+  position:absolute;
+  width: 50px !important;
+  bottom: 600px;
+}
+
+.iekbcc0.ju367v75.ju367v7q.ju367v8a.ju367v6j.ju367va3.ju367vcl.ju367vn.ju367vt.ju367vw.ju367vfu.ju367v16.ju367v1h.ju367v8u {
+  background:transparent;
+  border: none;
+  color: transparent;
+
+  /* display: none; */
+  position: absolute;
+  top: -77px;
+  left: 14px;
+  width: 52px;
+  height: 52px;
+  font-size: 0;
+  border-radius: 6px;
+}
+
+/* .iekbcc0.ju367v4.ju367va.ju367v1p {
+  display: none;
+} */
+button.iekbcc0.iekbcc9.ju367v4.ju367va3.ju367vn.ju367vei.ju367vfu.ju367va.ju367v16.ju367v1h.ju367v8u._12cbo8i3.ju367v8r._12cbo8i4._12cbo8i6 {
+  background: transparent;
+}
